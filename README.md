@@ -7,4 +7,4 @@ List the files
 - data/*csv
 - scripts/utils.py
 
-By Stéphanie Nouws
+By Stéphanie Nouws from Sciensano
